@@ -24,6 +24,10 @@ To use the website, follow these steps:
 1. Enter a GitHub username in the search bar on the homepage.
 2. If the username is valid, the website will display the user's information.
 
+## Deploy
+
+You can access the deployed version of this project at [github-user-search](https://main--inspiring-churros-ae6581.netlify.app/).
+
 
 
 
